@@ -1,3 +1,4 @@
+sadiqhussain Added 
 GIT: 
  
 git init - to initialaize the repo it converts a directory into a repository 
@@ -33,3 +34,5 @@ git show <tag_name> - list particular tag
 git tag -d <tag_name> - to delete a tag 
 git clone <github repo URL> - it clones the repo from the remote to local machine. 
 we can genrate personal access token in github from settings> developer settings> personal access token
+
+
